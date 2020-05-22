@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DemoNav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="copy_right_string" formatted="true">Copyright © AIA Insurance Lanka PLC 2018.\nAll Rights Reserved. NexGen iPoS - Mobile Version %1$s</string>
+
+    <string name="lead_camel_card">Lead</string>
+    <string name="prospect_camel_card">Prospect</string>
+    <string name="knowledge_center_card">Resource Center</string>
+    <string name="quotation_camel_card">Quotation</string>
+    <string name="proposal_camel_card">Proposal</string>
+    <string name="need_analysis_card">Need Analysis</string>
+    <string name="notification_camel_card">Notification</string>
+    <string name="update_camel_card">Update App</string>
+    <string name="logout_string_card">Logout</string>
+    <string name="dbPName">iNube$!1234</string>
+
+    <string name="database_name">AIA.db</string>
+
+</resources>

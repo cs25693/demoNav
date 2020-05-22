@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimen_10_dp">10dp</dimen>
+    <dimen name="dimen_30_dp">30dp</dimen>
+    <dimen name="dimen_5_dp">5dp</dimen>
+    <dimen name="dimen_20_dp">20dp</dimen>
+    <dimen name="dimen_15_dp">15dp</dimen>
+    <dimen name="check_box_width">30dp</dimen>
+    <dimen name="dimen_16_sp">16sp</dimen>
+    <dimen name="dimen_18_sp">18sp</dimen>
+    <dimen name="dimen_25_dp">25dp</dimen>
+    <dimen name="dimen_50_dp">50dp</dimen>
+    <dimen name="dimen_0_dp">0dp</dimen>
+    <dimen name="dimen_35_dp">35dp</dimen>
+    <dimen name="dimen_45_dp">45dp</dimen>
+    <dimen name="dimen_65_dp">65dp</dimen>
+    <dimen name="dimen_8_dp">8dp</dimen>
+    <dimen name="dimen_140_dp">140dp</dimen>
+
+
+    <dimen name="cardmargin_4_dp">20dp</dimen>
+    <!--Updated Screen Pixels-->
+
+    <!--Temp-->
+
+    <!--Common Dimens used across application-->
+    <dimen name="font_size_small">12sp</dimen>
+    <dimen name="font_size">14sp</dimen>
+    <dimen name="font_size_extra">18sp</dimen>
+    <dimen name="font_size_extra_large">22sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <!--End of common dimes-->
+
+    <!-- Dimens For TextInputLayout-->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <!--Claim Type-->
+
+    <!--claim type item-->
+
+    <!--Login Activity-->
+
+    <!--<dimen name="login_activity_margin">16dp</dimen>-->
+    <!--<dimen name="login_activity_app_icon_margin">40dp</dimen>-->
+    <!--<dimen name="login_activity_app_name_margin_left">8dp</dimen>-->
+    <!--<dimen name="login_activity_card_margin_left">10dp</dimen>-->
+    <!--<dimen name="login_activity_card_margin_right">10dp</dimen>-->
+    <!--<dimen name="login_activity_button_margin_right">14dp</dimen>-->
+    <!--<dimen name="login_activity_button_margin_left">14dp</dimen>-->
+    <!--<dimen name="login_activity_card_margin_top">20dp</dimen>-->
+    <!--<dimen name="login_activity_card_corner_radius">4dp</dimen>-->
+    <!--<dimen name="login_activity_card_elevation">4dp</dimen>-->
+    <!--<dimen name="login_activity_card_title_margin_top">7dp</dimen>-->
+    <!--<dimen name="login_activity_card_title_margin_bottom">7dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_margin_top">6dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_margin_bottom">6dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_margin_left">8dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_margin_right">8dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_image_icon_width">40dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_image_icon_height">40dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_icon_padding">6dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_height">50dp</dimen>-->
+    <!--<dimen name="login_activity_forgot_password_bottom">20dp</dimen>-->
+    <!--<dimen name="login_activity_forgot_password_top">20dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_padding_left">6dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_padding">15dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_padding_right">6dp</dimen>-->
+    <!--<dimen name="login_activity_text_login_with_phone_margin">8dp</dimen>-->
+    <!--<dimen name="login_activity_error_message_padding">2dp</dimen>-->
+    <!--<dimen name="login_activity_title">24sp</dimen>-->
+    <!--<dimen name="login_activity_card_title">20sp</dimen>-->
+    <!--<dimen name="login_activity_text_login_with_phone_size">16sp</dimen>-->
+    <!--<dimen name="login_activity_button_text_size">14sp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_border_stroke">1dp</dimen>-->
+    <!--<dimen name="login_activity_edit_text_border_radius">5dp</dimen>-->
+    <!--<dimen name="login_first_time_title_margin_top">8dp</dimen>-->
+    <!--<dimen name="login_first_time_title_margin_bottom">8dp</dimen>-->
+    <!--<dimen name="login_first_time_card_layout_margin">8dp</dimen>-->
+    <!--<dimen name="login_first_time_edit_text_height">40dp</dimen>-->
+    <!--<dimen name="login_activity_default_logo_width">60dp</dimen>-->
+    <!--<dimen name="login_activity_default_logo_height">60dp</dimen>-->
+    <!--<dimen name="login_activity_ms_chola_logo_width">300dp</dimen>-->
+    <!--<dimen name="login_activity_ms_chola_logo_height">80dp</dimen>-->
+    <!--End of Login Activity-->
+
+    <!--Survey Selection Activity-->
+    <!--End of Survey Selection Activity-->
+
+    <!--Navigation Drawer Activity-->
+    <dimen name="navigation_activity_fab_margin">16dp</dimen>
+    <dimen name="navigation_activity_fab_elevation">3dp</dimen>
+    <dimen name="navigation_activity_fab_elevation_pressed">6dp</dimen>
+
+    <dimen name="dialog_header_height">50dp</dimen>
+    <dimen name="dialog_header_padding">5dp</dimen>
+
+    <!--End of Navigation Drawer Activity-->
+
+    <!--Investigation Activity-->
+    <dimen name="inv_activity_content_margin_bottom">2dp</dimen>
+    <dimen name="inv_activity_nav_icon_width">28dp</dimen>
+    <dimen name="inv_activity_nav_icon_height">30dp</dimen>
+    <!--End of Investigation Activity-->
+
+    <!--Preview Fragment-->
+    <!--End of Preview Fragment-->
+
+    <!--Marking Activity-->
+
+    <!--End of Marking Activity-->
+
+    <!--Camera Activity-->
+    <dimen name="camera_activity_capture_icon_size">50dp</dimen>
+    <dimen name="camera_activity_retake_icon_size">35dp</dimen>
+    <dimen name="camera_activity_next_icon_size">35dp</dimen>
+    <dimen name="camera_activity_settings_icon_size">35dp</dimen>
+    <dimen name="camera_activity_next_button_margin_top">18dp</dimen>
+    <dimen name="camera_activity_icon_margin_left">8dp</dimen>
+    <!--End of Camera Activity-->
+
+    <!--Radio Button-->
+    <dimen name="radio_button_text_size">12sp</dimen>
+
+    <!--Auto Complete Spinner-->
+    <dimen name="spinner_auto_complete_edit_text_margin">8dp</dimen>
+
+    <!--Home Fragment-->
+    <!--End of Home Fragment-->
+
+    <!--Draft Fragment-->
+    <!--End of Draft Fragment-->
+
+    <!--About Activity-->
+    <!--End of About Activity-->
+
+    <!--Common Parent Layout Dimens-->
+    <dimen name="template_parent_layout_padding">8dp</dimen>
+    <dimen name="template_parent_layout_padding_x2">16dp</dimen>
+    <dimen name="template_parent_layout_padding_x3">32dp</dimen>
+
+    <!--XML template_inbox_item-->
+    <!--End of XML template_inbox_item-->
+
+    <!--XML table_checkbox_template-->
+    <!--End of XML table_checkbox_template-->
+
+    <!--XML template_dynamic_subsection-->
+    <!--End of XML template_dynamic_subsection-->
+
+    <!--widget_bigedittexttext-->
+    <dimen name="template_big_edit_text_validation_layout_margin_start">8dp</dimen>
+    <dimen name="template_big_edit_text_validation_layout_padding">8dp</dimen>
+    <!--End of widget_bigedittexttext-->
+
+    <!--XML template_checkbox-->
+    <dimen name="template_check_box_label_left_padding">4dp</dimen>
+    <dimen name="template_check_box_layout_margin_left">16dp</dimen>
+    <dimen name="template_check_box_error_icon_height">16dp</dimen>
+    <!--End of XML template_checkbox-->
+
+    <!--XML template_signature-->
+    <!--End of XML template_signature-->
+
+    <!--XML dialog_fragment_audio-->
+
+    <!--XML template_registration_no-->
+
+    <!-- Sales -->
+
+    <!--Calendar -->
+    <dimen name="calendar_event_view_margin">8dp</dimen>
+    <dimen name="calendar_event_title_margin_top">64dp</dimen>
+    <dimen name="calendar_event_title_margin_bottom">32dp</dimen>
+    <dimen name="calendar_view_tile_size">35dp</dimen>
+
+    <!--Video Description-->
+
+    <!--Videos All-->
+
+    <!--document others-->
+
+    <!--PAYMENT REQUISTION-->
+
+    <dimen name="progress_bar_size">40dp</dimen>
+
+    <dimen name="dimen_14_sp">14sp</dimen>
+    <dimen name="floating_button_margin">20dp</dimen>
+    <dimen name="dimen_20_sp">20sp</dimen>
+    <dimen name="dashboard_card_view_height">150dp</dimen>
+    <dimen name="dashboard_card_view_text_size">14sp</dimen>
+    <dimen name="dashboard_card_view_between_view_margin">5dp</dimen>
+    <dimen name="dashboard_card_view_margin_top">10dp</dimen>
+    <dimen name="dashboard_card_view_margin_left">10dp</dimen>
+    <dimen name="dashboard_card_view_margin_right">10dp</dimen>
+    <dimen name="iv_activity_toolbar_title_margin_left">5dp</dimen>
+    <dimen name="adapter_layout_product_info">150dp</dimen>
+    <dimen name="dimen_70_dp">70dp</dimen>
+    <dimen name="dimen_2_dp">2dp</dimen>
+    <dimen name="switch_width">48dp</dimen>
+    <dimen name="switch_height">20dp</dimen>
+    <dimen name="dimen_400_dp">400dp</dimen>
+    <dimen name="dimen_100_dp">100dp</dimen>
+    <dimen name="dialog_change_langauage_width">150dp</dimen>
+    <dimen name="dialog_change_langauage_height">200dp</dimen>
+    <dimen name="product_arrow_width">30dp</dimen>
+    <dimen name="product_arrow_parent_width">35dp</dimen>
+    <dimen name="product_item_height">150dp</dimen>
+    <dimen name="in_activity_pager_tab_strip_height">70dp</dimen>
+    <dimen name="calculate_btn_width">120dp</dimen>
+    <dimen name="custom_radio_margin">20dp</dimen>
+    <dimen name="dimen_26_sp">26sp</dimen>
+    <dimen name="step_indicator_size_uncompleted">10dp</dimen>
+    <dimen name="template_signature_image_width">200dp</dimen>
+    <dimen name="template_signature_image_height">150dp</dimen>
+    <dimen name="step_indicator_height">80dp</dimen>
+    <dimen name="margin_standard_secondary">8dp</dimen>
+    <dimen name="dimen_8_sp">8sp</dimen>
+    <dimen name="dimen_12_sp">12sp</dimen>
+    <dimen name="dimen_40_dp">40dp</dimen>
+    <dimen name="table_row_height_5_dp">70dp</dimen>
+    <dimen name="card_height">100dp</dimen>
+    <dimen name="frame_height">1050dp</dimen>
+    <dimen name="searchview_height">75dp</dimen>
+    <dimen name="search_edit_height">40dp</dimen>
+    <dimen name="image_card_size">100dp</dimen>
+    <dimen name="label_margin">4dp</dimen>
+
+</resources>

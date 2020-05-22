@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_color">#FFFFFFFF</color>
+    <color name="white_color_70">#B3FFFFFF</color>
+
+    <color name="red_light_button">#c21540</color>
+    <color name="grey_light_color">#919191</color>
+    <color name="black_color">#FF000000</color>
+    <color name="black_color_80">#CC000000</color>
+    <color name="black_color_60">#99000000</color>
+    <color name="app_pink_color">#b01e43</color>
+    <color name="graph_bar_1">#FE2619</color>
+    <color name="graph_bar_2">#FE7419</color>
+    <color name="graph_bar_3">#FEA719</color>
+    <color name="graph_bar_4">#FEA719</color>
+    <color name="graph_bar_5">#FEA719</color>
+    <color name="dashboard_pink_top">#f74278</color>
+    <color name="dashboard_pink_bottom">#ce003a</color>
+    <color name="tab_strip_indicator_color">#e96386</color>
+    <color name="login_screen_bg_bottom_color_60">#99af1843</color>
+    <color name="panel_pink_color">#c1891936</color>
+    <color name="pink_color_40">#66ce003a</color>
+
+    <color name="bottom_menu_selected_pink_color">#bc1844</color>
+
+    <color name="progress_bar_text_color">#ff616161</color>
+
+    <color name="myPrimaryColor">#344972</color>
+    <color name="myPrimaryDarkColor">#2d3f63</color>
+    <color name="colorAccent">#b01e43</color>
+    <color name="grey">#ffb9b9b9</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="divider">#9E9E9E</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="contact_pink">#E91E63</color>
+
+    <color name="card_view_bg">#ffffff</color>
+    <color name="pink_500">#E91E63</color>
+    <color name="red">#FF0000</color>
+
+    <color name="powder_blue">#F1F1F1</color>
+
+    <color name="black_color_20">#33000000</color>
+    <color name="switch_stroke_color">#4e4e4e</color>
+
+    <color name="myAccentColorGreen">#388E3C</color>
+
+
+    <color name="switch_pink">#f74278</color>
+    <!--<color name="dashboard_card_background">#5D1523</color>-->
+    <color name="dashboard_card_view_color">#99000000</color>
+    <color name="dashboard_color">#50BA1642</color>
+    <color name="green">#FF228B22</color>
+    <color name="adapter_monthly_expense_edit_text_bg">#e1e1e1</color>
+    <color name="widget_monthly_expenses_light_pink">#faa0b9</color>
+    <color name="widget_monthly_expenses_pink">#e76184</color>
+    <color name="text_background_yellow">#e8f273</color>
+</resources>
